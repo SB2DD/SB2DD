@@ -1,4 +1,10 @@
 ### Hi there 👋
+I'm a self-learned Java programmer. Normally coding Spigot Plugins.
+
+spigotmc: https://www.spigotmc.org/resources/authors/polishkrowa.316048/
+curseforge: https://www.curseforge.com/members/polishkrowa/projects
+
+Other than that, everything is here, enjoy!!
 
 <!--
 **Mrredstone5230/Mrredstone5230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
