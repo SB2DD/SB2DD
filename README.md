@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a self-learned Java programmer. Normally coding Spigot Plugins.
+I'm a self-taught Java programmer. Normally coding Spigot Plugins.
 
 - spigotmc: https://www.spigotmc.org/resources/authors/polishkrowa.316048/
 - curseforge: https://www.curseforge.com/members/polishkrowa/projects
