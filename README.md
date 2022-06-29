@@ -18,6 +18,15 @@
  
  #### If you wish to support me on my coding journey, feel free to [become a ❤️ Sponsor](https://github.com/sponsors/Mrredstone5230)!
 
+
+-------
+### Stats
+![PolishKrowa's stats](https://github-readme-stats.vercel.app/api/?username=Mrredstone5230&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrredstone5230&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+
+
 (A big inspiration for this README coming from [@athul](https://github.com/athul)'s)
 <!--
 **Mrredstone5230/Mrredstone5230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
