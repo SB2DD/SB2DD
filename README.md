@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! I'm PolishKrowa .</h2>
+<h2 align="center">👋 Hello! I'm PolishKrowa.</h2>
 <p align="center">
   <a href="https://www.spigotmc.org/resources/authors/polishkrowa.316048/">SpigotMC</a> •
   <a href="https://www.curseforge.com/members/polishkrowa/projects">CurseForge</a> •
