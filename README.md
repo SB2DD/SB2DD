@@ -1,6 +1,7 @@
-### Hi there 👋
-I'm a self-taught Java programmer. Normally coding Spigot Plugins.
+### Hi there 👋 
+I'm a French Canadian stuck in High School. I taught myself Java in 2020 (covid yay) and I LOVE IT $!#!@# Most of my projects are Spigot/Bukkit plugins, but I'm nowadays trying to make Fabric mods and Minecraft backend software(private tho). I'm open for requests (contact me on Discord).
 
+In the meantime I do something, feel free to check my profiles:
 - spigotmc: https://www.spigotmc.org/resources/authors/polishkrowa.316048/
 - curseforge: https://www.curseforge.com/members/polishkrowa/projects
 - modrinth: https://modrinth.com/user/Mrredstone5230
