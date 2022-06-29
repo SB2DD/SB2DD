@@ -8,7 +8,7 @@
 
 - 🇨🇦 I'm a French Canadian student stuck in High School.
 - 😄 Pronouns: He/Him
-- 🔭 I’m currently working on **projects at @Redserv-Network, Spigot/Bukkit plugins and Fabric Mods**
+- 🔭 I’m currently working on **projects at [@Redserv-Network](https://github.com/redserv-network), Spigot/Bukkit plugins and Fabric Mods**
 - 🌱 I’m currently learning how to **correctly code in Java :/**
 - ✋ I'm open for requests (contact me on Discord).
 - 📫 How to reach me: PolishKrowa#0001 on Discord
