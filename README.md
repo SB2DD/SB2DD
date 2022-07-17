@@ -9,7 +9,7 @@
 - 🇨🇦 I'm a French Canadian student stuck in High School.
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on **projects at [@Redserv-Network](https://github.com/redserv-network), Spigot/Bukkit plugins and Fabric Mods**
-- 🌱 I’m currently learning how to **correctly code in Java :/**
+- 🌱 I’m currently learning how to **correctly code in Java :/** (I mean it's not *too* bad)
 - ✋ I'm open for requests (contact me on Discord).
 - 📫 How to reach me: [PolishKrowa#0001 on Discord](https://discordapp.com/users/221640574048927756)
 
