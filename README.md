@@ -3,7 +3,7 @@
   <a href="https://www.spigotmc.org/resources/authors/polishkrowa.316048/">SpigotMC</a> •
   <a href="https://www.curseforge.com/members/polishkrowa/projects">CurseForge</a> •
   <a href="https://modrinth.com/user/Mrredstone5230">Modrinth</a> •
-  <a href="https://discordapp.com/users/221640574048927756">Discord (PolishKrowa#0001)</a>
+  <a href="https://discordapp.com/users/221640574048927756">Discord (@polishkrowa)</a>
 </p>
 
 - 🇨🇦 I'm a French Canadian student stuck in High School.
@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **projects at [@Redserv-Network](https://github.com/redserv-network), Spigot/Bukkit plugins and Fabric Mods**
 - 🌱 I’m currently learning how to **correctly code in Java :/** (I mean it's not *too* bad)
 - ✋ I'm open for requests (contact me on Discord).
-- 📫 How to reach me: [PolishKrowa#0001 on Discord](https://discordapp.com/users/221640574048927756)
+- 📫 How to reach me: [@polishkrowa on Discord](https://discordapp.com/users/221640574048927756)
 
 
  I taught myself Java in 2020 and I LOVE IT !! Most of my projects are here and I'm a big believer of Open source software.
