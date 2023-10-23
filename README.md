@@ -13,7 +13,7 @@
 - 📫 How to reach me: [@polishkrowa on Discord](https://discordapp.com/users/221640574048927756)
 
 
- I taught myself Java in 2020 and I LOVE IT !! Most of my projects are here and I'm a big believer of Open source software.
+ I taught myself Java in 2020 !! Most of my projects are here and I'm a big believer of Open source software.
  
  #### If you wish to support me on my coding journey, feel free to [become a ❤️ Sponsor](https://github.com/sponsors/Mrredstone5230)!
 
