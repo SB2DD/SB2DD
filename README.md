@@ -8,12 +8,10 @@
 
 - 🇨🇦 I'm a French Canadian CS student.
 - 😄 Pronouns: He/Him
-- 🔭 I’m currently working on **projects at [@Redserv-Network](https://github.com/redserv-network), Spigot/Bukkit plugins and Fabric Mods**
+- 🔭 I’m currently working on **Spigot/Bukkit plugins and Fabric Mods**
 - ✋ I'm open for requests (contact me on Discord).
 - 📫 How to reach me: [@polishkrowa on Discord](https://discordapp.com/users/221640574048927756)
 
-
- I taught myself Java in 2020 !! Most of my projects are here and I'm a big believer of Open source software.
  
  #### If you wish to support me on my coding journey, feel free to [become a ❤️ Sponsor](https://github.com/sponsors/Mrredstone5230)!
 
