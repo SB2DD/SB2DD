@@ -16,9 +16,9 @@
 
 -------
 ### Stats
-![PolishKrowa's stats](https://github-readme-stats.vercel.app/api/?username=Mrredstone5230&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_rank=true)
+![PolishKrowa's stats](https://github-readme-stats.vercel.app/api/?username=SB2DD&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_rank=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrredstone5230&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SB2DD&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
 
