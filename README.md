@@ -11,7 +11,7 @@
 - 📫 How to reach me: [@polishkrowa on Discord](https://discordapp.com/users/221640574048927756)
 
  
- #### If you wish to support me on my coding journey, feel free to [become a ❤️ Sponsor](https://github.com/sponsors/Mrredstone5230)!
+ #### If you wish to support me on my coding journey, feel free to [become a ❤️ Sponsor](https://github.com/sponsors/SB2DD)!
 
 
 -------
