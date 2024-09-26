@@ -1,15 +1,13 @@
-<h2 align="center">👋 Hello! I'm PolishKrowa.</h2>
+<h2 align="center">👋 Hello! I'm SB2D! (prev PolishKrowa)</h2>
 <p align="center">
-  <a href="https://www.spigotmc.org/resources/authors/polishkrowa.316048/">SpigotMC</a> •
+  <a href="https://modrinth.com/user/SB2D">Modrinth</a> •
   <a href="https://www.curseforge.com/members/polishkrowa/projects">CurseForge</a> •
-  <a href="https://modrinth.com/user/Mrredstone5230">Modrinth</a> •
-  <a href="https://discordapp.com/users/221640574048927756">Discord (@polishkrowa)</a>
+  <a href="https://discordapp.com/users/221640574048927756">Discord (@polishkrowa)</a> •
+  <a href="https://www.spigotmc.org/resources/authors/polishkrowa.316048/">SpigotMC</a> 
 </p>
 
 - 🇨🇦 I'm a French Canadian CS student.
-- 😄 Pronouns: He/Him
-- 🔭 I’m currently working on **Spigot/Bukkit plugins and Fabric Mods**
-- ✋ I'm open for requests (contact me on Discord).
+- 😄 Pronouns: He/Him<!--- 🔭 I’m currently working on **Spigot/Bukkit plugins and Fabric Mods**- ✋ I'm open for requests (contact me on Discord).-->
 - 📫 How to reach me: [@polishkrowa on Discord](https://discordapp.com/users/221640574048927756)
 
  
