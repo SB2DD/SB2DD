@@ -13,7 +13,7 @@
  
  #### If you wish to support me on my coding journey, feel free to [become a ❤️ Sponsor](https://github.com/sponsors/SB2DD)!
 
-
+<!--
 -------
 ### Stats
 ![PolishKrowa's stats](https://github-readme-stats.vercel.app/api/?username=SB2DD&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_rank=true)
